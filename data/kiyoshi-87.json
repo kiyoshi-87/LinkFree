@@ -1,6 +1,10 @@
 {
   "name": "Ayan Sarma",
-  "bio": "B.Tech Undergrad student. Interested in cloud technologies.",
+  "bio": "B.Tech Undergrad | **Cloud** Technologies | **DevOps** | **Open Source** Enthusiast",
+  {
+  "tags": [ "DevOps", "Docker", "Kubernetes", "IaaC", "CI/CD",
+  "Open Source" ]
+}
   "links": [
     {
       "name": "Follow me on Twitter",
